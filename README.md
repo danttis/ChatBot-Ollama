@@ -34,7 +34,7 @@ Para utilizar este ChatBot, você precisará instalar o Ollama em sua máquina l
 ### Interface do Usuário
 
 Após seguir os passos acima, você verá uma interface similar a esta:
-![imagem](img/img1.png)
+![imagem](img/img.png)
 
 ## Sobre o ChatBot
 
